@@ -24,7 +24,7 @@ async function notify(site) {
     // TODO promissificar
     communications.sendEmail(mailOptions);
     // TODO promissificar
-    communications.sendSMS('27997463829', `Site ${site.url} não funcionando.`);
+    communications.sendSMS('', `Site ${site.url} não funcionando.`);
 }
 
 var requestUrl = async (site) => {

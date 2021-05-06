@@ -7,8 +7,8 @@ const transporter = {
     port: 587,
     secure: false,
     auth: {
-        user: "silas.moraes@etaure.com.br",
-        pass: "A5x$fT!X7MWD"
+        user: "",
+        pass: ""
     },
     tls: { rejectUnauthorized: true }
 
