@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Datas da agenda tributária",
+    "url": "https://app.contaure.com.br:8443/agenda/ws/evento/datas?tenant=public",
+    "data": true
+  },
+  {
+    "name": "Painel de ferramentas contaure",
+    "url": "http://painel2.contaure.com.br/"
+  },
+  {
+    "name": "Painel de ferramentas contaure",
+    "url": "http://painel2.contaure.com.br/"
+  },
+  {
+    "name": "Painel de ferramentas contaure",
+    "url": "http://ferramentas.contaure.com.br/"
+  },
+  {
+    "name": "Contaure",
+    "url": "https://contaure.com.br"
+  },
+  {
+    "name": "Contaure Blog",
+    "url": "https://blog.contaure.com.br"
+  },
+  {
+    "name": "Painel Contaure",
+    "url": "https://app.contaure.com.br"
+  },
+  {
+    "name": "Painel antigo Contaure",
+    "url": "https://app2.contaure.com.br"
+  },
+  {
+    "name": "Adolfo Miranda Contabilidade",
+    "url": "https://www.adolfocont.com.br"
+  },
+  {
+    "name": "AJM Assessoria",
+    "url": "https://www.ajmcontabil.com.br"
+  },
+  {
+    "name": "Assercon Assessoria Empresarial E Contábil",
+    "url": "https://www.assercon.com.br"
+  },
+  {
+    "name": "Br Santos Assessoria Contabil",
+    "url": "https://www.brsantos.com.br"
+  },
+  {
+    "name": "Campello Contabilidade",
+    "url": "https://www.campellocontabilidade.com.br"
+  },
+  {
+    "name": "ECCAP",
+    "url": "https://www.eccap.cnt.br"
+  },
+  {
+    "name": "Cifra Contábil",
+    "url": "https://www.cifrarj.com.br"
+  },
+  {
+    "name": "Contabilidade Laranjeiras",
+    "url": "https://www.contabilidadelaranjeiras.com.br"
+  },
+  {
+    "name": "Renov Assessoria Contábil",
+    "url": "https://www.assessoriacontac.com.br",
+    "churn": true
+  },
+  {
+    "name": "Contalegal",
+    "url": "https://www.contalegal.com.br"
+  },
+  {
+    "name": "Coplan Contabilidade",
+    "url": "https://www.coplansg.com.br"
+  },
+  {
+    "name": "Corintho Assessoria",
+    "url": "https://www.corintho.com"
+  },
+  {
+    "name": "Dominnare Assessoria",
+    "url": "https://www.dominnare.com.br"
+  },
+  {
+    "name": "Dorothea Contabilidade",
+    "url": "https://www.dorotheareiscontabilidade.com.br"
+  },
+  {
+    "name": "Econeva Contabilidade",
+    "url": "https://www.econeva.com.br"
+  },
+  {
+    "name": "Econeva Contabilidade",
+    "url": "https://www.econeva.com.br"
+  },
+  {
+    "name": "Emeca Organizacao Contabil",
+    "url": "https://www.emecacontabil.com.br"
+  },
+  {
+    "name": "JE Contabilidade",
+    "url": "https://www.jecontabilidade.com"
+  },
+  {
+    "name": "Escrital Contabilidade",
+    "url": "https://www.escritalcontabilidade.com.br"
+  },
+  {
+    "name": "Andrea Gomes Contabilidade",
+    "url": "https://www.andreagomescontabilidade.com.br"
+  },
+  {
+    "name": "Evandro Contabilidade",
+    "url": "https://www.evandrocontabil.com.br"
+  },
+  {
+    "name": "Finanze Contabil",
+    "url": "https://www.finanzecontabil.com.br"
+  },
+  {
+    "name": "Renz Jurídico",
+    "url": "https://www.renzjuridico.com.br"
+  },
+  {
+    "name": "Galtec Contabilidade",
+    "url": "https://www.galteccontabilidade.com.br"
+  },
+  {
+    "name": "LL Contabilidade",
+    "url": "https://www.llcontabilidade.com.br",
+    "churn": true
+  },
+  {
+    "name": "G2C Contabilidade",
+    "url": "https://www.g2ccontabilidade.com.br"
+  },
+  {
+    "name": "Soma Assessoria e Auditoria Contábil",
+    "url": "https://www.somacontabil.com.br"
+  },
+  {
+    "name": "Hafra Contabilidade",
+    "url": "https://www.hafra.com.br",
+    "churn": true
+  },
+  {
+    "name": "Ibeap Servicos Empresariais (Grupo Penta)",
+    "url": "https://www.gpenta.com.br",
+    "churn": true
+  },
+  {
+    "name": "Impressul / Marassi Barros Contabilidade",
+    "url": "https://www.marassibarros.com.br"
+  },
+  {
+    "name": "JL Casagrande Contabilidade",
+    "url": "https://www.jlcasagrande.com.br"
+  },
+  {
+    "name": "AST -All Services Technical",
+    "url": "https://www.grupomcb.com.br"
+  },
+  {
+    "name": "Odair Pacheco Contabilidade",
+    "url": "https://www.odairmoura.com"
+  },
+  {
+    "name": "Gs Contabilidade",
+    "url": "https://www.gscontabilidade.com.br"
+  },
+  {
+    "name": "Renz Contabil",
+    "url": "https://www.renzcontabil.com.br"
+  },
+  {
+    "name": "Ativa Contabilidade",
+    "url": "https://www.ativacontabil.com"
+  },
+  {
+    "name": "Vanguarda E Associados",
+    "url": "https://www.vanguardadecontabilidade.com.br"
+  },
+  {
+    "name": "Rimar Contabil",
+    "url": "https://www.rimarcontabil.com"
+  },
+  {
+    "name": "RJ Brasil Contabilidade Ltda-ME",
+    "url": "https://www.rjbrasilcontabilidade.com.br"
+  },
+  {
+    "name": "Rm Servicos De Apoio Empresarial",
+    "url": "https://www.rmctb.com.br"
+  },
+  {
+    "name": "Rmr Inocencio",
+    "url": "https://www.rmrinocencio.com.br"
+  },
+  {
+    "name": "TR Participações",
+    "url": "https://www.trparticipacoes.com.br",
+    "site": false
+  },
+  {
+    "name": "Ruggeri & Leite",
+    "url": "https://www.ruggerieleite.com.br"
+  },
+  {
+    "name": "Simel",
+    "url": "https://www.simel.com.br"
+  },
+  {
+    "name": "SIS Vacinas",
+    "url": "https://www.sisvacinas.com.br",
+    "churn": true
+  },
+  {
+    "name": "SLM Assessoria Contábil",
+    "url": "https://www.slmcontabilidade.com.br",
+    "churn": true
+  },
+  {
+    "name": "Grupo Herdy Contabilidade",
+    "url": "https://www.grupoherdy.com.br"
+  },
+  {
+    "name": "Vago & Cia Contabilidade",
+    "url": "https://www.vagoeciacontabil.com.br"
+  },
+  {
+    "name": "NF Contabilidade",
+    "url": "https://www.nfcontabilidade.com.br"
+  },
+  {
+    "name": "Vineyard Vila Velha",
+    "url": "https://www.vineyardvilavelha.com.br"
+  },
+  {
+    "name": "Hiper Contabil",
+    "url": "https://www.hipercontabil.com.br"
+  },
+  {
+    "name": "Posto 13 de Maio II",
+    "url": "https://www.posto13demaio2.com.br",
+    "site": false
+  },
+  {
+    "name": "JMR Contabilidade",
+    "url": "https://www.jmrcontabilidade.com.br"
+  },
+  {
+    "name": "Fortes Assessoria",
+    "url": "https://www.contabilidadefortes.com.br"
+  },
+  {
+    "name": "Exito Assessoria Contábil",
+    "url": "https://www.exitoassessoriacontabil.com"
+  },
+  {
+    "name": "J Barone Contabilidade",
+    "url": "https://www.jbaronecontabilidade.com.br"
+  },
+  {
+    "name": "Contavilla Contabilidade",
+    "url": "https://www.contavillacontabilidade.com.br"
+  },
+  {
+    "name": "Superação Administração De Condomínios LTDA",
+    "url": "https://www.superacaocondominio.com.br"
+  },
+  {
+    "name": "Consultabil Consultoria, Assessoria E Contabilidade Eireli",
+    "url": "https://www.consultabil.com.br",
+    "churn": true
+  },
+  {
+    "name": "Organiza Contábil",
+    "url": "https://www.organizacontabil.com",
+    "churn": true
+  },
+  {
+    "name": "CONTIQ Contabilidade",
+    "url": "https://www.contiq.com.br"
+  }
+]

@@ -1,0 +1,41 @@
+<%- contentFor('body') %>
+
+
+    <div class="lista">
+        
+        <%for (var i in data){%>
+            <a href="<%=data[i].url%>">
+                <div class="card shadow lista-item <% if(data[i].status < 200 || data[i].status > 299 || data[i].fatal != undefined  || data[i].churn ){ %> error <%}%>
+            <% if(data[i].churn ){ %> churn <%}%>  ">
+                    <div class="title">
+                        <%=data[i].name%>
+                    </div>
+                    <div class=" url">
+                        <%=data[i].url%>
+                    </div>
+                    <div class="codigo">Status = <%=data[i].status%>
+                    </div>
+                    <div class="info">
+                        <%=data[i].fatal%>
+                    </div>
+                    <div class="info">
+                        <% if (data[i].formatDate) { %>
+                            <p>Data ultimo erro: <%=data[i].formatDate%>
+                            </p>
+                            <% } %>
+                    </div>
+
+                    <div class="info">
+                        <% if (data[i].churn ) { %>
+                            <p>Site cancelado ou suspenso</p>
+                            <% } %>
+                    </div>
+                    <div class="info">
+                        <% if (data[i].site==false ) { %>
+                            <p><strong style="color: crimson;">Site não existe</strong></p>
+                            <% } %>
+                    </div>
+            </a>
+    </div>
+    <%}%>
+        </div>

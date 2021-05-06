@@ -1,0 +1,367 @@
+[
+  {
+    "code": 1,
+    "name": "Datas da agenda tributária",
+    "url": "https://app.contaure.com.br:8443/agenda/ws/evento/datas?tenant=public"
+  },
+  {
+    "code": 2,
+    "name": "Painel de ferramentas contaure",
+    "url": "http://painel2.contaure.com.br/"
+  },
+  {
+    "code": 3,
+    "name": "Painel de ferramentas contaure",
+    "url": "http://painel2.contaure.com.br/"
+  },
+  {
+    "code": 4,
+    "name": "Painel de ferramentas contaure",
+    "url": "http://ferramentas.contaure.com.br/tabelas-praticas.aspx"
+  },
+  {
+    "code": 5,
+    "name": "Contaure",
+    "url": "https://contaure.com.br"
+  },
+  {
+    "code": 6,
+    "name": "Contaure Blog",
+    "url": "https://blog.contaure.com.br"
+  },
+  {
+    "code": 7,
+    "name": "Painel Contaure",
+    "url": "https://app.contaure.com.br"
+  },
+  {
+    "code": 8,
+    "name": "Painel antigo Contaure",
+    "url": "https://app2.contaure.com.br"
+  },
+  {
+    "code": 9,
+    "name": "Adolfo Miranda Contabilidade",
+    "url": "https://www.adolfocont.com.br"
+  },
+  {
+    "code": 10,
+    "name": "AJM Assessoria",
+    "url": "https://www.ajmcontabil.com.br"
+  },
+  {
+    "code": 11,
+    "name": "Assercon Assessoria Empresarial E Contábil",
+    "url": "https://www.assercon.com.br"
+  },
+  {
+    "code": 12,
+    "name": "Br Santos Assessoria Contabil",
+    "url": "https://www.brsantos.com.br"
+  },
+  {
+    "code": 13,
+    "name": "Campello Contabilidade",
+    "url": "https://www.campellocontabilidade.com.br"
+  },
+  {
+    "code": 14,
+    "name": "ECCAP",
+    "url": "https://www.eccap.cnt.br"
+  },
+  {
+    "code": 15,
+    "name": "Cifra Contábil",
+    "url": "https://www.cifrarj.com.br"
+  },
+  {
+    "code": 16,
+    "name": "Contabilidade Laranjeiras",
+    "url": "https://www.contabilidadelaranjeiras.com.br"
+  },
+  {
+    "code": 17,
+    "name": "Renov Assessoria Contábil",
+    "url": "https://www.assessoriacontac.com.br",
+    "churn": true
+  },
+  {
+    "code": 18,
+    "name": "Contalegal",
+    "url": "https://www.contalegal.com.br"
+  },
+  {
+    "code": 19,
+    "name": "Coplan Contabilidade",
+    "url": "https://www.coplansg.com.br"
+  },
+  {
+    "code": 20,
+    "name": "Corintho Assessoria",
+    "url": "https://www.corintho.com"
+  },
+  {
+    "code": 21,
+    "name": "Dominnare Assessoria",
+    "url": "https://www.dominnare.com.br"
+  },
+  {
+    "code": 22,
+    "name": "Dorothea Contabilidade",
+    "url": "https://www.dorotheareiscontabilidade.com.br"
+  },
+  {
+    "code": 23,
+    "name": "Econeva Contabilidade",
+    "url": "https://www.econeva.com.br"
+  },
+  {
+    "code": 24,
+    "name": "Econeva Contabilidade",
+    "url": "https://www.econeva.com.br"
+  },
+  {
+    "code": 25,
+    "name": "Emeca Organizacao Contabil",
+    "url": "https://www.emecacontabil.com.br"
+  },
+  {
+    "code": 26,
+    "name": "JE Contabilidade",
+    "url": "https://www.jecontabilidade.com"
+  },
+  {
+    "code": 27,
+    "name": "Escrital Contabilidade",
+    "url": "https://www.escritalcontabilidade.com.br"
+  },
+  {
+    "code": 28,
+    "name": "Andrea Gomes Contabilidade",
+    "url": "https://www.andreagomescontabilidade.com.br"
+  },
+  {
+    "code": 29,
+    "name": "Evandro Contabilidade",
+    "url": "https://www.evandrocontabil.com.br"
+  },
+  {
+    "code": 30,
+    "name": "Finanze Contabil",
+    "url": "https://www.finanzecontabil.com.br"
+  },
+  {
+    "code": 31,
+    "name": "Renz Jurídico",
+    "url": "https://www.renzjuridico.com.br"
+  },
+  {
+    "code": 32,
+    "name": "Galtec Contabilidade",
+    "url": "https://www.galteccontabilidade.com.br"
+  },
+  {
+    "code": 33,
+    "name": "LL Contabilidade",
+    "url": "https://www.llcontabilidade.com.br",
+    "churn": true
+  },
+  {
+    "code": 34,
+    "name": "G2C Contabilidade",
+    "url": "https://www.g2ccontabilidade.com.br"
+  },
+  {
+    "code": 35,
+    "name": "Soma Assessoria e Auditoria Contábil",
+    "url": "https://www.somacontabil.com.br"
+  },
+  {
+    "code": 36,
+    "name": "Hafra Contabilidade",
+    "url": "https://www.hafra.com.br",
+    "churn": true
+  },
+  {
+    "code": 37,
+    "name": "Ibeap Servicos Empresariais (Grupo Penta)",
+    "url": "https://www.gpenta.com.br",
+    "churn": true
+  },
+  {
+    "code": 38,
+    "name": "Impressul / Marassi Barros Contabilidade",
+    "url": "https://www.marassibarros.com.br"
+  },
+  {
+    "code": 39,
+    "name": "JL Casagrande Contabilidade",
+    "url": "https://www.jlcasagrande.com.br"
+  },
+  {
+    "code": 40,
+    "name": "AST -All Services Technical",
+    "url": "https://www.grupomcb.com.br"
+  },
+  {
+    "code": 41,
+    "name": "Odair Pacheco Contabilidade",
+    "url": "https://www.odairmoura.com"
+  },
+  {
+    "code": 42,
+    "name": "Gs Contabilidade",
+    "url": "https://www.gscontabilidade.com.br"
+  },
+  {
+    "code": 43,
+    "name": "Renz Contabil",
+    "url": "https://www.renzcontabil.com.br"
+  },
+  {
+    "code": 44,
+    "name": "Ativa Contabilidade",
+    "url": "https://www.ativacontabil.com"
+  },
+  {
+    "code": 45,
+    "name": "Vanguarda E Associados",
+    "url": "https://www.vanguardadecontabilidade.com.br"
+  },
+  {
+    "code": 46,
+    "name": "Rimar Contabil",
+    "url": "https://www.rimarcontabil.com"
+  },
+  {
+    "code": 47,
+    "name": "RJ Brasil Contabilidade Ltda-ME",
+    "url": "https://www.rjbrasilcontabilidade.com.br"
+  },
+  {
+    "code": 48,
+    "name": "Rm Servicos De Apoio Empresarial",
+    "url": "https://www.rmctb.com.br"
+  },
+  {
+    "code": 49,
+    "name": "Rmr Inocencio",
+    "url": "https://www.rmrinocencio.com.br"
+  },
+  {
+    "code": 50,
+    "name": "TR Participações",
+    "url": "https://www.trparticipacoes.com.br",
+    "site": false
+  },
+  {
+    "code": 51,
+    "name": "Ruggeri & Leite",
+    "url": "https://www.ruggerieleite.com.br"
+  },
+  {
+    "code": 52,
+    "name": "Simel",
+    "url": "https://www.simel.com.br"
+  },
+  {
+    "code": 53,
+    "name": "SIS Vacinas",
+    "url": "https://www.sisvacinas.com.br",
+    "churn": true
+  },
+  {
+    "code": 54,
+    "name": "SLM Assessoria Contábil",
+    "url": "https://www.slmcontabilidade.com.br",
+    "churn": true
+  },
+  {
+    "code": 55,
+    "name": "Grupo Herdy Contabilidade",
+    "url": "https://www.grupoherdy.com.br"
+  },
+  {
+    "code": 56,
+    "name": "Vago & Cia Contabilidade",
+    "url": "https://www.vagoeciacontabil.com.br"
+  },
+  {
+    "code": 57,
+    "name": "NF Contabilidade",
+    "url": "https://www.nfcontabilidade.com.br"
+  },
+  {
+    "code": 58,
+    "name": "Vineyard Vila Velha",
+    "url": "https://www.vineyardvilavelha.com.br"
+  },
+  {
+    "code": 59,
+    "name": "Hiper Contabil",
+    "url": "https://www.hipercontabil.com.br"
+  },
+  {
+    "code": 60,
+    "name": "Posto 13 de Maio II",
+    "url": "https://www.posto13demaio2.com.br",
+    "site": false
+  },
+  {
+    "code": 61,
+    "name": "JMR Contabilidade",
+    "url": "https://www.jmrcontabilidade.com.br"
+  },
+  {
+    "code": 62,
+    "name": "Fortes Assessoria",
+    "url": "https://www.contabilidadefortes.com.br"
+  },
+  {
+    "code": 63,
+    "name": "Exito Assessoria Contábil",
+    "url": "https://www.exitoassessoriacontabil.com"
+  },
+  {
+    "code": 64,
+    "name": "J Barone Contabilidade",
+    "url": "https://www.jbaronecontabilidade.com.br"
+  },
+  {
+    "code": 65,
+    "name": "Contavilla Contabilidade",
+    "url": "https://www.contavillacontabilidade.com.br"
+  },
+  {
+    "code": 66,
+    "name": "Superação Administração De Condomínios LTDA",
+    "url": "https://www.superacaocondominio.com.br"
+  },
+  {
+    "code": 67,
+    "name": "Consultabil Consultoria, Assessoria E Contabilidade Eireli",
+    "url": "https://www.consultabil.com.br",
+    "churn": true
+  },
+  {
+    "code": 68,
+    "name": "Organiza Contábil",
+    "url": "https://www.organizacontabil.com",
+    "churn": true
+  },
+  {
+    "code": 69,
+    "name": "CONTIQ Contabilidade",
+    "url": "https://www.contiq.com.br"
+  },
+  {
+    "code": 70,
+    "name": "Basecon",
+    "url": "https://www.basecon.com.br"
+  },
+  {
+    "code": 71,
+    "name": "Etaure",
+    "url": "http://etaure.com.br"
+  }
+]
